@@ -34,9 +34,9 @@ Esta aplicação Flutter funciona como uma calculadora de combustível, permitin
 3. Implemente novos recursos ou corrija bugs.
 4. Envie um pull request.
 
-## Licença
+<!-- ## Licença
 
-Este projeto é licenciado sob a [sua licença escolhida]. Consulte o arquivo LICENSE para obter mais detalhes.
+Este projeto é licenciado sob a [sua licença escolhida]. Consulte o arquivo LICENSE para obter mais detalhes. -->
 
 ## Aviso Legal
 
